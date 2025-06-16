@@ -1,9 +1,9 @@
 import React from 'react'
 
-function app() {
+function learning() {
   return (
     <div>app</div>
   )
 }
 
-export default app
+export default learning
